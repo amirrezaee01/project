@@ -32,3 +32,6 @@ This project demonstrates backend development skills, including **user authentic
 ```bash
 git clone https://github.com/amirrezaee01/weblog.git
 cd weblog
+
+## Create a virtual environment:
+    python -m venv venv
