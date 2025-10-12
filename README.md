@@ -28,10 +28,8 @@ This project demonstrates backend development skills, including **user authentic
 ## Installation
 
 1. **Clone the repository**:
+    git clone https://github.com/amirrezaee01/weblog.git
 
-```bash
-git clone https://github.com/amirrezaee01/weblog.git
-cd weblog
 
-## Create a virtual environment:
+2. **Create a virtual environment**:
     python -m venv venv
